@@ -1,5 +1,4 @@
 langchain==0.0.154
 streamlit==1.18.1
-os-sys 2.1.4
 SQLAlchemy 2.0.23
 promptsource 0.2.3
